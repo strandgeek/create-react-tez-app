@@ -1,0 +1,23 @@
+{
+  "name": "create-react-tez-app",
+  "version": "0.0.1",
+  "description": "Create a ReactTez application",
+  "main": "createTezApp.js",
+  "bin": "createTezApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strandgeek/create-react-tez-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strandgeek/create-react-tez-app/issues"
+  },
+  "homepage": "https://github.com/strandgeek/create-react-tez-app#readme",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
